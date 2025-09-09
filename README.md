@@ -33,7 +33,7 @@ The overall style is Pixar/Disney-like 3D animation — high quality, charming, 
 
 ## 📹 Video
 
-![Cheerful Quokka](https://github.com/user-attachments/assets/320ccb35-16b3-4db1-a980-4bf2eff0f6ba)
+![Cheerful Quokka](asset/영상.gif)
 
 ---
 
